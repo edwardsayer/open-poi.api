@@ -4,5 +4,6 @@ org.openpoi.server.api.annotations
 org.openpoi.server.api.plugin
 org.openpoi.server.backend.file
 org.openpoi.server.backend.hibernatespatial
+org.openpoi.server.cache.memcached
 org.openpoi.server.domain.simple
 org.openpoi.server.web
